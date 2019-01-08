@@ -1,17 +1,12 @@
+import leetCode_6.Example;
+
 public class Main {
 
-
-
-
-
     public static void main(String[] args) {
-        System.out.println("Hello World!");
 
-
-    }
-
-    public static void setA() {
-
+        Example example=new Example();
+        String out=example.convert("PAYPALISHIRING",6);
+        System.out.println(out);
     }
 
 }
