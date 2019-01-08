@@ -2,13 +2,6 @@ package leetCode_6;
 
 public class Example {
 
-//    P     I    N
-//    A   L S  I G
-//    Y A   H R
-//    P     I
-
-
-
 
 
     public String convert(String s, int numRows) {
